@@ -2,7 +2,9 @@
 
 ---
 
-![JetBot](./images/jetbot.png)
+<div align="center">
+  <img src="./images/jetbot.png", width="60%", height="60%">
+</div>
 
 ### This project is consisted of two small projects
 
@@ -51,7 +53,9 @@ You can access it using a remote access protocol such as ssh (secure shell proto
 
 If you connect USB cable to the host pc(in this case, tested on Windows10), it automatically connects to local network environment with address like `192.168.55.100` 
 
-![IPAddress](./images/host_ip.png)
+<div align="center">
+  <img src="./images/host_ip.png", width="60%", height="60%">
+</div>
 
 The picture above is host pc's IP address of the network which is established with USB cable. Ip address of Jetson Nano is set to `192.168.55.1` . Therefore, you can remotely connect to Jetson Nano.
 
