@@ -10,7 +10,14 @@
 
 ### 1. moving control(body + head) using usb joystick
 
+<div align="center">
+    <img src="./images/handle_control.gif", width="60%", height="60%">
+</div>
+
 ### 2. Face tracker(Automatic head control) with Object detection model
+<div align="center">
+    <img src="./images/face_tracking.gif", width="60%", height="60%">
+</div>
 
 ---
 
