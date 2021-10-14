@@ -68,7 +68,7 @@ If you successfully connected to Jetbot, run the code below to run ipython code
 ```
 jupyter notebook
 ```
-<br>
+<br></br>
 There is three files in this project
 * `Face_Tracker_Handle.ipynb` - Main implementation file, There are some instructions in this ipython file.
 * `PID.py` - I use PID(Proportional Intergral Differential) algorithm to control servo motor which corresponds to head of Jetbot
